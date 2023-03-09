@@ -16,10 +16,17 @@
 	"customizations": {
 		"vscode": {
 			"settings": {
-
+				"editor.bracketPairColorization.enabled": false,
+				"workbench.iconTheme": "material-icon-theme",
+				"workbench.colorTheme": "Darcula Theme from IntelliJ"
 			},
 			"extensions": [
-				
+				"trinm1709.dracula-theme-from-intellij",
+				"fwcd.kotlin",
+				"PKief.material-icon-theme",
+				"MS-vsliveshare.vsliveshare",
+				"formulahendry.code-runner",
+				"vscjava.vscode-gradle"
 			]
 		}
 	}
