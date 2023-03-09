@@ -25,7 +25,6 @@
     			"workbench.colorTheme": "JetBrains Darcula Theme"
 			},
 			"extensions": [
-				"trinm1709.dracula-theme-from-intellij",
 				"fwcd.kotlin",
 				"PKief.material-icon-theme",
 				"MS-vsliveshare.vsliveshare",
