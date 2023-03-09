@@ -1,0 +1,17 @@
+// https://code.visualstudio.com/docs/getstarted/settings#_extension-settings
+{
+    "editor.bracketPairColorization.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Darcula Theme from IntelliJ",
+    "liveServer.settings.root": "/workspace",
+    "liveServer.settings.ignoreFiles": [
+
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ],
+    "liveServer.settings.mount": [
+        
+    ],
+}
