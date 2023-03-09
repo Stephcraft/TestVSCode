@@ -16,9 +16,13 @@
 	"customizations": {
 		"vscode": {
 			"settings": {
+				"editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+				"editor.fontSize": 13,
+				"editor.lineHeight": 22,
+				"editor.fontWeight": "300",
 				"editor.bracketPairColorization.enabled": false,
-				"workbench.iconTheme": "material-icon-theme",
-				"workbench.colorTheme": "Darcula Theme from IntelliJ"
+				"workbench.iconTheme": "vscode-jetbrains-icon-theme",
+    			"workbench.colorTheme": "JetBrains Darcula Theme"
 			},
 			"extensions": [
 				"trinm1709.dracula-theme-from-intellij",
@@ -26,7 +30,9 @@
 				"PKief.material-icon-theme",
 				"MS-vsliveshare.vsliveshare",
 				"formulahendry.code-runner",
-				"vscjava.vscode-gradle"
+				"vscjava.vscode-gradle",
+				"Anan.jetbrains-darcula-theme",
+				"chadalen.vscode-jetbrains-icon-theme"
 			]
 		}
 	}
